@@ -2,4 +2,5 @@
 button {
     border: none;
     background: #f00;
+    text-transform: uppercase;
 }
